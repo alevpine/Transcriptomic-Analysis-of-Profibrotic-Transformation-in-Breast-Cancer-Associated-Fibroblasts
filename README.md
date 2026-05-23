@@ -40,7 +40,7 @@ Cancer-associated fibroblasts (CAFs) are the main stromal cells in breast tumors
 | Pseudoalignment | `kallisto` ≥ 0.50 | NCBI RefSeq transcriptome, k=31, 100 bootstraps |
 | Gene-level counts | `tximport` | RefSeq → gene symbol via `org.Hs.eg.db` |
 | Differential expression | `DESeq2` | Paired design `~ patient + condition`, padj < 0.05, \|LFC\| > 1 |
-| Subtype scoring | mean z-score | myCAF / matCAF / iCAF marker gene sets [3, 5] |
+| Subtype scoring | mean z-score | myCAF / matCAF / iCAF marker gene sets |
 
 ## Repository Structure
 
