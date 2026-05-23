@@ -131,11 +131,10 @@ CAF subtypes form clearly different profibrotic profiles. myCAF-dominant samples
 **R packages:** DESeq2, tximport, ggplot2, ComplexHeatmap, org.Hs.eg.db, AnnotationDbi, circlize, dplyr, tidyr, ggrepel
 
 ## References
-
-1. Li S., Patel M., Engstrom M. et al. Deciphering Functional Heterogeneity of Cancer-Associated Fibroblasts Across Molecular Subtypes of Breast Cancer. *bioRxiv*, 2025. DOI: [10.1101/2025.01.05.631269](https://doi.org/10.1101/2025.01.05.631269)
-2. Cao Z., Quazi S.A., Oselame L. et al. Cancer-associated fibroblasts as therapeutic targets for cancer. *J Biomed Sci*, 2025, 32:7. DOI: [10.1186/s12929-024-01099-2](https://doi.org/10.1186/s12929-024-01099-2)
-3. Kieffer Y., Hocber J.E., Jez G. et al. Single-Cell Analysis Reveals Fibroblast Clusters Linked to Immunotherapy Resistance in Cancer. *Cancer Discov*, 2020, 10(9):1330–1351. DOI: [10.1158/2159-8290.CD-19-1384](https://doi.org/10.1158/2159-8290.CD-19-1384)
-4. Pelon F., Bourachot B., Kieffer Y. et al. Deciphering the spatial landscape and plasticity of immunosuppressive fibroblasts in breast cancer. *Nat Commun*, 2024, 15:2806. DOI: [10.1038/s41467-024-47068-z](https://doi.org/10.1038/s41467-024-47068-z)
-5. Ning L., Quan C., Wang Y. et al. scRNA-seq characterizing the heterogeneity of fibroblasts in breast cancer reveals a novel subtype SFRP4+ CAF. *Front Oncol*, 2024, 14:1348299. DOI: [10.3389/fonc.2024.1348299](https://doi.org/10.3389/fonc.2024.1348299)
-6. Naito Y., Nakanishi Y. How Do Cancer Cells Create Cancer-Associated Fibroblast Subtypes? *Cancer Sci*, 2025. DOI: [10.1111/cas.70133](https://doi.org/10.1111/cas.70133)
-7. Xia Z., Vermeulen S., Suwal U. et al. Cancer-associated fibroblasts mediate resistance to neoadjuvant therapy in breast cancer. *Clin Transl Med*, 2024, 14:e1779. DOI: [10.1002/ctm2.1779](https://doi.org/10.1002/ctm2.1779)
+1) Li R., O'Connor D.J., Digby B. et al. Aurantio-obtusin modulates Wilms Tumour 1 within the breast tumour microenvironment reducing immunosuppression and tumour growth. Cell Commun Signal, 2025, 23:338. DOI: 10.1186/s12964-025-02292-y.
+2) Cao Z., Quazi S.A., Osellame L. et al. Cancer-associated fibroblasts as therapeutic targets for cancer: advances, challenges, and future prospects. J Biomed Sci, 2025, 32:7. DOI: 10.1186/s12929-024-01099-2.
+3) Kieffer Y., Hocine H.R., Gentric G. et al. Single-Cell Analysis Reveals Fibroblast Clusters Linked to Immunotherapy Resistance in Cancer. Cancer Discov, 2020, 10(9):1330–1351. DOI: 10.1158/2159-8290.CD-19-1384.
+4) Pelon F., Bourachot B., Kieffer Y. et al. Deciphering the spatial landscape and plasticity of immunosuppressive fibroblasts in breast cancer. Nat Commun, 2024, 15:2806. DOI: 10.1038/s41467-024-47068-z.
+5) Ning L., Quan C., Wang Y. et al. scRNA-seq characterizing the heterogeneity of fibroblasts in breast cancer reveals a novel subtype SFRP4+ CAF. Front Oncol, 2024, 14:1348299. DOI: 10.3389/fonc.2024.1348299.
+6) Naito Y., Nakanishi Y. How Do Cancer Cells Create Cancer-Associated Fibroblast Subtypes? Cancer Sci, 2025. DOI: 10.1111/cas.70133.
+7) Xia Z., Vermeulen S., Suwal U. et al. Cancer-associated fibroblasts mediate resistance to neoadjuvant therapy in breast cancer. Clin Transl Med, 2024, 14:e1779. DOI: 10.1002/ctm2.1779.
